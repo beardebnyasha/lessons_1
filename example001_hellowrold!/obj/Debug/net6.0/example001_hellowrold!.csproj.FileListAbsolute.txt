@@ -1,0 +1,16 @@
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\bin\Debug\net6.0\example001_hellowrold!.exe
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\bin\Debug\net6.0\example001_hellowrold!.deps.json
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\bin\Debug\net6.0\example001_hellowrold!.runtimeconfig.json
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\bin\Debug\net6.0\example001_hellowrold!.dll
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\bin\Debug\net6.0\ref\example001_hellowrold!.dll
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\bin\Debug\net6.0\example001_hellowrold!.pdb
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.GlobalUsings.g.cs
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.csproj.AssemblyReference.cache
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.AssemblyInfoInputs.cache
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.AssemblyInfo.cs
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.csproj.CoreCompileInputs.cache
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.dll
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\ref\example001_hellowrold!.dll
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.pdb
+C:\Users\puzik\OneDrive\Рабочий стол\учеба\C#\lesson 1\example001_hellowrold!\obj\Debug\net6.0\example001_hellowrold!.genruntimeconfig.cache
